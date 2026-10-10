@@ -1,0 +1,11 @@
+node_modules/
+dist/
+models/
+weights/
+*.safetensors
+*.gguf
+*.bin
+*.tgz
+*.tar.gz
+.env*
+**/api-token
